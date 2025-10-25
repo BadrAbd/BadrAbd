@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Badr 
 
-I'm 19 years old and come from Morocco. I graduated from vocational training program in Digital Development: Web Full Stack at OFPPT in 2025.<br/>
+I'm 20 years old and come from Morocco. I graduated from vocational training program in Digital Development: Web Full Stack at OFPPT in 2025.<br/>
 
 I'm passionate about building modern, responsive web applications and always eager to learn new technologies and grow as a developer.<br/>
 
